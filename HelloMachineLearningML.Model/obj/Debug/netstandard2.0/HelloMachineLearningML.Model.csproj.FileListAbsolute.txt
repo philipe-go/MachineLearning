@@ -1,0 +1,10 @@
+D:\Documents\Programming\MachineLearning\MLdotnet\HelloMachineLearningML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Documents\Programming\MachineLearning\MLdotnet\HelloMachineLearningML.Model\bin\Debug\netstandard2.0\HelloMachineLearningML.Model.deps.json
+D:\Documents\Programming\MachineLearning\MLdotnet\HelloMachineLearningML.Model\bin\Debug\netstandard2.0\HelloMachineLearningML.Model.dll
+D:\Documents\Programming\MachineLearning\MLdotnet\HelloMachineLearningML.Model\bin\Debug\netstandard2.0\HelloMachineLearningML.Model.pdb
+D:\Documents\Programming\MachineLearning\MLdotnet\HelloMachineLearningML.Model\obj\Debug\netstandard2.0\HelloMachineLearningML.Model.csprojAssemblyReference.cache
+D:\Documents\Programming\MachineLearning\MLdotnet\HelloMachineLearningML.Model\obj\Debug\netstandard2.0\HelloMachineLearningML.Model.AssemblyInfoInputs.cache
+D:\Documents\Programming\MachineLearning\MLdotnet\HelloMachineLearningML.Model\obj\Debug\netstandard2.0\HelloMachineLearningML.Model.AssemblyInfo.cs
+D:\Documents\Programming\MachineLearning\MLdotnet\HelloMachineLearningML.Model\obj\Debug\netstandard2.0\HelloMachineLearningML.Model.csproj.CoreCompileInputs.cache
+D:\Documents\Programming\MachineLearning\MLdotnet\HelloMachineLearningML.Model\obj\Debug\netstandard2.0\HelloMachineLearningML.Model.dll
+D:\Documents\Programming\MachineLearning\MLdotnet\HelloMachineLearningML.Model\obj\Debug\netstandard2.0\HelloMachineLearningML.Model.pdb
