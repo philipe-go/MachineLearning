@@ -8,7 +8,7 @@ namespace HelloMachineLearning
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Machine Learning!\n");
-            Console.WriteLine("Enter your text below:");
+            Console.Write("Enter your text below: ");
 
             // Add input data
             var input = new ModelInput();
