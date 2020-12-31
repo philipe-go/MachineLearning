@@ -1,0 +1,238 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16235 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Documents/GameDesign/UNITY-HummingBird-ML/HummingBird
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50108
+Successfully changed project path to: D:/Documents/GameDesign/UNITY-HummingBird-ML/HummingBird
+D:/Documents/GameDesign/UNITY-HummingBird-ML/HummingBird
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 64.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Documents/GameDesign/UNITY-HummingBird-ML/HummingBird/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56304
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003991 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 61.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.371 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005156 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 70.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.114 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.6 MB.
+System memory in use after: 123.5 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 3189.
+Total: 5.622200 ms (FindLiveObjects: 0.429000 ms CreateObjectMapping: 0.240900 ms MarkObjects: 3.376900 ms  DeleteObjects: 1.573700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Hummingbird/Scenes
+  artifactKey: Guid(89c31a63bdaa79e40be7f73c12d6c112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Scenes using Guid(89c31a63bdaa79e40be7f73c12d6c112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cd568cdf7df1aee2d1063e2ef52956f') in 0.017338 seconds
+  Import took 0.023482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.805285 seconds.
+  path: Assets/Hummingbird/Scenes/FlowerIsland.unity
+  artifactKey: Guid(5a7bf1aff4db1344e883037fa86947a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Scenes/FlowerIsland.unity using Guid(5a7bf1aff4db1344e883037fa86947a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'febb0116b79117b94b2876ce6a8f8e6e') in 0.018836 seconds
+  Import took 0.024590 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008018 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.530 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2724 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.0 MB.
+System memory in use after: 120.9 MB.
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 3192.
+Total: 5.275700 ms (FindLiveObjects: 0.306500 ms CreateObjectMapping: 0.191100 ms MarkObjects: 3.114000 ms  DeleteObjects: 1.662600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 746.356428 seconds.
+  path: Assets/Hummingbird/Prefabs/UI.prefab
+  artifactKey: Guid(761b85bf77377c84c99d1f58d31e9bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Prefabs/UI.prefab using Guid(761b85bf77377c84c99d1f58d31e9bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170e7b531e69a58628af613d62802950') in 0.127660 seconds
+  Import took 0.133399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.139724 seconds.
+  path: Assets/Hummingbird/Scripts/GameManager.cs
+  artifactKey: Guid(30a025a073fb13e4f8797a3b5aaaecc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Scripts/GameManager.cs using Guid(30a025a073fb13e4f8797a3b5aaaecc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39058713dbb563af963a6707d8b47c00') in 0.014497 seconds
+  Import took 0.023367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001201 seconds.
+  path: Assets/Hummingbird/Scripts/GameManager.cs
+  artifactKey: Guid(30a025a073fb13e4f8797a3b5aaaecc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Scripts/GameManager.cs using Guid(30a025a073fb13e4f8797a3b5aaaecc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39058713dbb563af963a6707d8b47c00') in 0.004438 seconds
+  Import took 0.011088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.884360 seconds.
+  path: Assets/Hummingbird/Scripts/UIController.cs
+  artifactKey: Guid(14604eda27bc4124f8186e3644194341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Scripts/UIController.cs using Guid(14604eda27bc4124f8186e3644194341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78572049c076c569dab3a4665f13ddf5') in 0.011802 seconds
+  Import took 0.027380 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004525 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.262 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2737 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.6 MB.
+System memory in use after: 122.9 MB.
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 3194.
+Total: 5.400300 ms (FindLiveObjects: 0.381700 ms CreateObjectMapping: 0.262500 ms MarkObjects: 2.942700 ms  DeleteObjects: 1.810900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1283.408810 seconds.
+  path: Assets/Hummingbird/Scripts/HummingbirdAgent.cs
+  artifactKey: Guid(bb71bea36983eba4da563e5085f09aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Scripts/HummingbirdAgent.cs using Guid(bb71bea36983eba4da563e5085f09aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b428c5f3c8adf77476b33608157acad') in 0.010689 seconds
+  Import took 0.018241 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006808 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.308 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.8 MB.
+System memory in use after: 123.1 MB.
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 3198.
+Total: 4.995000 ms (FindLiveObjects: 0.301500 ms CreateObjectMapping: 0.175900 ms MarkObjects: 2.641300 ms  DeleteObjects: 1.875100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 864.208844 seconds.
+  path: Assets/Hummingbird/Scripts/GameManager.cs
+  artifactKey: Guid(30a025a073fb13e4f8797a3b5aaaecc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Scripts/GameManager.cs using Guid(30a025a073fb13e4f8797a3b5aaaecc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aaa81d94e5e754ec3ef8be063c98224') in 0.017226 seconds
+  Import took 0.028286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7050.791254 seconds.
+  path: Assets/Hummingbird/Scenes/Training.unity
+  artifactKey: Guid(f36411d6fac4ba04a965fa55cf1487e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Scenes/Training.unity using Guid(f36411d6fac4ba04a965fa55cf1487e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdb41b9158c184dc45f94471b2f0eb1e') in 0.043288 seconds
+  Import took 0.058142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 488.711597 seconds.
+  path: Assets/Hummingbird/Prefabs/Hummingbird.prefab
+  artifactKey: Guid(ee5d7605796823e44b0821e269dced5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Prefabs/Hummingbird.prefab using Guid(ee5d7605796823e44b0821e269dced5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d6e2400c583b6f4ac445dce69ace80') in 0.305840 seconds
+  Import took 0.312472 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
